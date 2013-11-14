@@ -85,7 +85,7 @@ map<string, map <string, any> > widgets = $[
 
 	// firewall widget
     "firewall" : CWMFirewallInterfaces::CreateOpenFirewallWidget ($[
-        "services" : [ "slp-daemon" ],
+        "services" : [ "service:openslp" ],
         "display_details" : true,
     ]),
 
