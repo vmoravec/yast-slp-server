@@ -1,4 +1,9 @@
 -------------------------------------------------------------------
+Thu Nov 14 10:10:24 UTC 2013 - vmoravec@suse.com
+
+- fixed incorrect service name for firewall bnc#825505
+
+-------------------------------------------------------------------
 Mon Feb 22 15:58:42 CET 2010 - juhliarik@suse.cz
 
 - added fix for missing localization (bnc#580475)
